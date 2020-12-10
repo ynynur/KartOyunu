@@ -1,4 +1,4 @@
-# KartOyunu
+# Card Game
 
 SUMMARY
 
