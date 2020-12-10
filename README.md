@@ -1,6 +1,8 @@
 # Card Game
 
-SUMMARY Prolab1 - İlk Dönem 1. 2020
+Prolab1 - İlk Dönem 1. 2020
+
+SUMMARY 
 
 The Card Game was to be able to understand the object oriented programming structure and to develop a solution method suitable for the requirements.
 
