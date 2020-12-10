@@ -2,7 +2,7 @@
 
 SUMMARY
 
-The Athlete Card Game was to be able to understand the object oriented programming structure and to develop a solution method suitable for the requirements.
+The Card Game was to be able to understand the object oriented programming structure and to develop a solution method suitable for the requirements.
 
 The card game was designed with an interface where the user can compete with the automatic player (against the computer), and the game and the cards in the hands of the players can be seen and followed.
 
